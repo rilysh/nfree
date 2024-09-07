@@ -1,0 +1,10 @@
+** nfree
+A re-implementation of free(1) command for GNU/Linux.
+
+** Usage
+Run =nfree --help= to display the help menu.
+
+** Compatibility
+It's almost fully compatible with GNU/Linux's free(1), except
+a few minor details and a number of handful options that are
+omitted.
